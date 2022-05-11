@@ -1,0 +1,47 @@
+2022-04-15 15:31:24,375 : INFO : test_getdata : 3
+2022-04-15 15:31:24,375 : INFO : test_getdata : 1
+2022-04-15 15:31:57,916 : INFO : test_getdata : 3
+2022-04-15 15:31:57,916 : INFO : test_getdata : 1
+2022-04-15 15:31:57,936 : DEBUG : test_loging : A debug statement is executed
+2022-04-15 15:31:57,936 : INFO : test_loging : Information statement
+2022-04-15 15:31:57,937 : WARNING : test_loging : A warning statement is executed
+2022-04-15 15:31:57,937 : ERROR : test_loging : An error statement is executed
+2022-04-15 15:31:57,937 : CRITICAL : test_loging : Critical issue
+2022-04-15 15:37:34,319 : INFO : test_getdata : 3
+2022-04-15 15:37:34,319 : INFO : test_getdata : 1
+2022-04-15 15:38:12,776 : INFO : test_getdata : 3
+2022-04-15 15:38:12,776 : INFO : test_getdata : 1
+2022-04-15 15:41:04,748 : INFO : test_getdata : 3
+2022-04-15 15:41:04,748 : INFO : test_getdata : 1
+2022-04-15 15:41:17,429 : INFO : test_getdata : 3
+2022-04-15 15:41:17,429 : INFO : test_getdata : 1
+2022-04-15 15:41:26,543 : INFO : test_getdata : 3
+2022-04-15 15:41:26,543 : INFO : test_getdata : 1
+2022-04-15 15:42:55,324 : INFO : test_getdata : 3
+2022-04-15 15:42:55,325 : INFO : test_getdata : 1
+2022-04-15 15:43:02,839 : INFO : test_getdata : 3
+2022-04-15 15:43:02,839 : INFO : test_getdata : 1
+2022-04-15 15:43:02,857 : DEBUG : test_loging : A debug statement is executed
+2022-04-15 15:43:02,857 : INFO : test_loging : Information statement
+2022-04-15 15:43:02,857 : WARNING : test_loging : A warning statement is executed
+2022-04-15 15:43:02,857 : ERROR : test_loging : An error statement is executed
+2022-04-15 15:43:02,857 : CRITICAL : test_loging : Critical issue
+2022-04-15 15:46:45,615 :INFO : test_getdata :3
+2022-04-15 15:46:45,616 :INFO : test_getdata :1
+2022-04-15 15:46:54,544 :INFO : test_getdata :3
+2022-04-15 15:46:54,544 :INFO : test_getdata :1
+2022-04-15 15:46:54,561 : DEBUG : test_loging : A debug statement is executed
+2022-04-15 15:46:54,562 : INFO : test_loging : Information statement
+2022-04-15 15:46:54,562 : WARNING : test_loging : A warning statement is executed
+2022-04-15 15:46:54,562 : ERROR : test_loging : An error statement is executed
+2022-04-15 15:46:54,562 : CRITICAL : test_loging : Critical issue
+2022-04-15 15:49:18,827 : DEBUG : test_loging : A debug statement is executed
+2022-04-15 15:49:18,827 : INFO : test_loging : Information statement
+2022-04-15 15:49:18,828 : WARNING : test_loging : A warning statement is executed
+2022-04-15 15:49:18,828 : ERROR : test_loging : An error statement is executed
+2022-04-15 15:49:18,828 : CRITICAL : test_loging : Critical issue
+2022-04-15 15:50:16,718 : DEBUG : test_loging : A debug statement is executed
+2022-04-15 15:50:16,719 : INFO : test_loging : Information statement
+2022-04-15 15:50:16,719 : WARNING : test_loging : A warning statement is executed
+2022-04-15 15:50:16,719 : ERROR : test_loging : An error statement is executed
+2022-04-15 15:50:16,719 : CRITICAL : test_loging : Critical issue
