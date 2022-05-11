@@ -12,7 +12,7 @@ action = ActionChains(driver)
 # when we use action, definitely we have to use perform menthon(perform())
 action.move_to_element(driver.find_element(By.XPATH, "//button[@id='mousehover']")).perform()
 action.move_to_element(driver.find_element(By.LINK_TEXT, "Reload")).click().perform()
-#delete comments
+#delete comments by sandeep
 driver.get("https://chercher.tech/practice/practice-pop-ups-selenium-webdriver")
 #context_click is to right click and select the appropriate option
 action.context_click(driver.find_element(By.ID, 'double-click')).perform()
